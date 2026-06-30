@@ -6,7 +6,10 @@ University League Tables source & methodology: https://www.thecompleteuniversity
 
 Higher Education Statistics Agency (HESA) subject enrolment data: https://www.hesa.ac.uk/data-and-analysis/students/what-study
 
-- Access the data files [here]()
+- Below is the Alteryx ETL workflow that I used to dynamically input, clean, and append the HESA enrolment data
+
+
+<img width="735" height="292" alt="Alteryx ETL workflow" src="https://github.com/user-attachments/assets/57c08a13-6d7e-4b89-aced-6970207c4bc2" />
 
 
 # Data Analysis and Visualisation
@@ -26,5 +29,9 @@ Higher Education Statistics Agency (HESA) subject enrolment data: https://www.he
 
 <img width="1894" height="912" alt="Overview dashbaord" src="https://github.com/user-attachments/assets/f8db0e48-c347-40dd-aa7b-0cb30b542f6e" />
 
+
+
 <img width="1893" height="911" alt="Performance Benchmark Dashboard" src="https://github.com/user-attachments/assets/57fd4b46-892e-415b-9fb0-31ee48fe1b07" />
+
+
 
