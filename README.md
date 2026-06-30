@@ -20,7 +20,6 @@ Higher Education Statistics Agency (HESA) subject enrolment data: https://www.he
 - Subject Enrolment Insights: Highlighted which subjects drive the bulk of a university's enrolment, informing decisions on resource allocation, course investment, or marketing focus.
 
 # Dashboard
-- Access Tableau dashboard without the data source [here](Tableau%20Workbook%20-%20University%20Performance%20Analysis.twb)
 - Access Tableau dashboard with the data source [here](University%20Performance%Analysis.twbx)
 
-
+- Access Tableau dashboard as PowerPoint here
