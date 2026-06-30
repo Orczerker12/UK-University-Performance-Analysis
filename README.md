@@ -9,7 +9,8 @@ Higher Education Statistics Agency (HESA) subject enrolment data: https://www.he
 - Below is the Alteryx ETL workflow that I used to dynamically input, clean, and append the HESA enrolment data
 
 
-<img width="735" height="292" alt="Alteryx ETL workflow" src="https://github.com/user-attachments/assets/57c08a13-6d7e-4b89-aced-6970207c4bc2" />
+<img width="705" height="246" alt="Alteryx ETL workflow" src="https://github.com/user-attachments/assets/df522ef4-35a8-4185-917a-40517a37b5fc" />
+
 
 
 # Data Analysis and Visualisation
