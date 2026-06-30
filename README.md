@@ -16,3 +16,7 @@ Higher Education Statistics Agency (HESA) subject enrolment data: https://www.he
 - Performance Metrics: Diagnosed which specific areas (entry standards, degree completion, graduate outcomes, research quality) are dragging a university's overall position down or lifting it up relative to top performers, informing where strategic improvement would have the most impact.
 - Trend Analysis: Tracked whether a university's performance is improving, declining, or stagnant over nearly two decades relative to top 10% and national benchmarks, useful for assessing the effectiveness of past strategic initiatives.
 - Subject Enrolment Insights: Highlighted which subjects drive the bulk of a university's enrolment, informing decisions on resource allocation, course investment, or marketing focus.
+
+# Dashboard
+- Access Tableau dashboard without the data source:
+- Access Tableau dashboard with the data source:
