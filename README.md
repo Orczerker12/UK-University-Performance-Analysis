@@ -1,7 +1,7 @@
 # UK-University-Performance-Analysis
 Alteryx + Tableau project analysing UK university league tables and higher education enrolment data to build interactive performance benchmarking dashboards.
 
-# Datasets
+# Data Collection & Preprocessing
 University League Tables source & methodology: https://www.thecompleteuniversityguide.co.uk/league-tables/rankings
 
 Higher Education Statistics Agency (HESA) subject enrolment data: https://www.hesa.ac.uk/data-and-analysis/students/what-study
