@@ -1,5 +1,5 @@
 # UK-University-Performance-Analysis
-Alteryx + Tableau project analysing UK university league tables and higher education enrolment data to build interactive performance benchmarking dashboards.
+Data analysis and visualisation project investigating UK university league tables and higher education enrolment data. The project explores institutional performance rankings, competitive benchmarking, and analyses patterns across key metrics. I use Alteryx automated workflow to import and cleanse the datasets. Finally, I use Tableau to visualise the findings across a series of interactive dashboards.
 
 # Data Collection & Preprocessing
 University League Tables source & methodology: https://www.thecompleteuniversityguide.co.uk/league-tables/rankings
