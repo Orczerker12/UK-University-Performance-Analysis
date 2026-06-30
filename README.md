@@ -28,15 +28,9 @@ Higher Education Statistics Agency (HESA) subject enrolment data: https://www.he
 
 Below are the overview and performance dashboards.<br><br>
 
+<img width="1894" height="912" alt="Overview dashbaord" src="https://github.com/user-attachments/assets/f8db0e48-c347-40dd-aa7b-0cb30b542f6e"/><br><br>
 
-
-<img width="1894" height="912" alt="Overview dashbaord" src="https://github.com/user-attachments/assets/f8db0e48-c347-40dd-aa7b-0cb30b542f6e" /><br><br>
-
-
-
-
-
-<img width="1893" height="911" alt="Performance Benchmark Dashboard" src="https://github.com/user-attachments/assets/57fd4b46-892e-415b-9fb0-31ee48fe1b07" />
+<img width="1893" height="911" alt="Performance Benchmark Dashboard" src="https://github.com/user-attachments/assets/57fd4b46-892e-415b-9fb0-31ee48fe1b07"/>
 
 
 
