@@ -26,11 +26,11 @@ Higher Education Statistics Agency (HESA) subject enrolment data: https://www.he
 # Dashboard
 - Access Tableau dashboard [here](University%20Performance%20Analysis.twbx)
 
-Below are the overview and performance dashboards.\\
+Below are the overview and performance dashboards.\
 
 
 
-<img width="1894" height="912" alt="Overview dashbaord" src="https://github.com/user-attachments/assets/f8db0e48-c347-40dd-aa7b-0cb30b542f6e" />\\\
+<img width="1894" height="912" alt="Overview dashbaord" src="https://github.com/user-attachments/assets/f8db0e48-c347-40dd-aa7b-0cb30b542f6e" />\
 
 
 
