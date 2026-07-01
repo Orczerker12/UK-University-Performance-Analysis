@@ -29,9 +29,13 @@ Access Tableau dashboard [here](University%20Performance%20Analysis.twbx)
 
 Below are the overview and performance dashboards.<br><br>
 
-<img width="1894" height="912" alt="Overview dashbaord" src="https://github.com/user-attachments/assets/f8db0e48-c347-40dd-aa7b-0cb30b542f6e"/><br>
+<img width="1707" height="909" alt="University Overview Dashboard" src="https://github.com/user-attachments/assets/8a20ad90-d3e1-4fb2-b3ff-5a1809f041dd" /><br>
 
-<img width="1893" height="911" alt="Performance Benchmark Dashboard" src="https://github.com/user-attachments/assets/57fd4b46-892e-415b-9fb0-31ee48fe1b07"/>
+<img width="1708" height="910" alt="University Benchmark Dashboard" src="https://github.com/user-attachments/assets/b31ab64a-1ac9-4ede-bdd3-209e58015d21" />
+
+
+
+
 
 
 
