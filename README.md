@@ -6,7 +6,7 @@ Data analysis and visualisation project investigating UK university league table
 
 [Higher Education Statistics Agency (HESA) subject enrolment data](https://www.hesa.ac.uk/data-and-analysis/students/what-study)<br>
 
-Column Definitions (for more detailed information, visit the League Tables methodology link above):
+League Table Column Definitions:
 
 - Entry Standards: The average UCAS tariff score of new undergraduate students.
 - Student Satisfaction (maximum score 4): A measure of student views of the teaching quality at the university. 
