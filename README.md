@@ -6,6 +6,18 @@ University League Tables source & methodology: https://www.thecompleteuniversity
 
 Higher Education Statistics Agency (HESA) subject enrolment data: https://www.hesa.ac.uk/data-and-analysis/students/what-study
 
+- Entry Standards: The average UCAS tariff score of new undergraduate students.
+- Student Satisfaction (maximum score 4): A measure of student views of the teaching quality at the university. 
+- Research Quality (maximum score 4): A measure of the quality of the research undertaken in the university.
+- Research Intensity (maximum score 1): A measure of the proportion of teaching staff involved in research.
+- Graduate Prospects - Outcomes (maximum score 100): A measure of the success in employability or further study of graduates completing their first degree.
+- Academic Services Spend: The expenditure per student on all academic services.
+- Facilities Spend: The expenditure per student on staff and student facilities.
+- Degree Completion: A percentage of full-time UK domiciled students starting a first-degree course who are projected to gain a degree.
+
+
+
+
 Below is the Alteryx ETL workflow that I used to dynamically input, clean, and append the HESA enrolment data
 
 
