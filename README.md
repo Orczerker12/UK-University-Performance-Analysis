@@ -2,9 +2,9 @@
 Data analysis and visualisation project investigating UK university league tables and higher education enrolment data. The project explores institutional performance rankings, competitive benchmarking, and analyses patterns across key metrics. I use Alteryx automated workflow to import and cleanse the datasets. Finally, I use Tableau to visualise the findings across a series of interactive dashboards.
 
 # Data Collection & Preprocessing
-University League Tables source & methodology: https://www.thecompleteuniversityguide.co.uk/league-tables/rankings
+[University League Tables source & methodology](https://www.thecompleteuniversityguide.co.uk/league-tables/rankings)
 
-Higher Education Statistics Agency (HESA) subject enrolment data: https://www.hesa.ac.uk/data-and-analysis/students/what-study<br>
+[Higher Education Statistics Agency (HESA) subject enrolment data](https://www.hesa.ac.uk/data-and-analysis/students/what-study)<br>
 
 Column Definitions (for more detailed information, visit the League Tables methodology link above):
 
